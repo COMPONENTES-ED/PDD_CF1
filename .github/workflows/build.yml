@@ -13,6 +13,8 @@ jobs:
   build:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
@@ -32,7 +34,7 @@ jobs:
       - name: construccion de dist
         run: npm run build
 
-      - name: agregar nevo dist a gh-pages
+      - name: agregar nuevo dist a gh-pages
         run: |
           git config user.name yesnapoleondynamite
           git config user.email yesnapoleondynamite@gmail.com
