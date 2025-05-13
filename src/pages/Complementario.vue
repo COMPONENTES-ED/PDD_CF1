@@ -109,7 +109,7 @@ export default {
           link: 'https://www.youtube.com/watch?v=GL7CHwwPlKM ',
         },
         {
-          tema: '4. Introducción a la Inteligencia Artificial',
+          tema: '4. Introducción a la inteligencia artificial',
           referencia:
             'Ecosistema de Recursos Educativos Digitales SENA. (2023b, marzo 24). <i>Inteligencia artificial en los datos.</i>',
           tipo: 'Video',

@@ -139,7 +139,7 @@
               La industria manufacturera está aprovechando la IA para
               implementar mantenimiento predictivo, donde los algoritmos pueden
               predecir cuándo una máquina necesitará mantenimiento, antes de que
-              ocurra una falla. Esto no solo reduce los costos de mantenimiento
+              ocurra una falla. Esto no solo reduce los costos de mantenimiento,
               sino que también minimiza el tiempo de inactividad.
             </p>
           </div>
