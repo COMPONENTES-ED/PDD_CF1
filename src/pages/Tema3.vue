@@ -114,6 +114,7 @@
       <div class="row justify-content-center mb-5">
         <div class="col-lg-5 my-lg-0 my-3">
           <img class="img-a img-t" src="@/assets/curso/temas/62.png" alt="" />
+          <figcaption>Tomado de lab.wallarm.com</figcaption>
         </div>
         <div class="col-lg-7 my-lg-0 my-3">
           <div class="bg4 p-4 h-100 j1">
