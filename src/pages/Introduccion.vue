@@ -35,7 +35,7 @@
         figure
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/wG0fdlslv1I?si=0OxDo-LplwKhl-ZT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-
+          figcaption Video. Modelamiento y gestión de datos para modelos de inteligencia artificial
 </template>
 
 <script>

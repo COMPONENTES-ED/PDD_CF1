@@ -21,7 +21,7 @@
         <div class="col-12 col-md-8 col-lg-9">
           <div class="titulo-segundo">
             <h2>
-              Prueba de conocimientos sobre modelamiento y gestión de datos para
+              Prueba de conocimientos sobre Modelamiento y gestión de datos para
               modelos de inteligencia artificial
             </h2>
           </div>
